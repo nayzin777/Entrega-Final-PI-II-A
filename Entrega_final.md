@@ -25,7 +25,9 @@
   * Agora por fim após abrir o terceiro terminal (logado), publique o comando ***./publica-mqtt***.
   * Veremos que no segundo terminal aparecera o nomes dos que estiverem logados. 
   
-  ![Captura de tela de 2022-09-21 23-38-19](https://user-images.githubusercontent.com/113566443/191646049-8d3328fa-d3ba-45be-9691-23f918614feb.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/113566443/191646049-8d3328fa-d3ba-45be-9691-23f918614feb.png"width="700px" />
+</div>
   
 #
 #### Etapas 3 e 4 
