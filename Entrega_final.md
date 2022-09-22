@@ -17,7 +17,7 @@
 * Compilamos com: ***gcc publica-mqtt.c -o publica-mqtt***.
 * Colocamos a linha ***nano publica-frase-mqtt.c***
 * Na parte interna do editor vamos editar somente o tópico; salvamos e saimos.
-* Por fim, compilamos com o comando ***gcc publica-frase-mqtt.c -o publica-frase-mqtt
+* Por fim, compilamos com o comando ***gcc publica-frase-mqtt.c -o publica-frase-mqtt***
 #
 #### Etapas 1 e 2 
   * Para ver o codigo funcionando ditamos ***mosquitto_sub -h broker.emqx.io -t pi2anaydson/comandos | ./le-anuncia-mqtt*** em um primeiro terminal.
