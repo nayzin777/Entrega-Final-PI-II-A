@@ -24,6 +24,9 @@
   * Abra um segundo terminal e escreva: ***mosquitto_sub -h broker.emqx.io -t pi2anaydson/nomes*** para subscrever no tópico.
   * Agora por fim após abrir o terceiro terminal (logado), publique o comando ***./publica-mqtt***.
   * Veremos que no segundo terminal aparecera o nomes dos que estiverem logados. 
+  
+  ![Captura de tela de 2022-09-21 23-38-19](https://user-images.githubusercontent.com/113566443/191646049-8d3328fa-d3ba-45be-9691-23f918614feb.png)
+  
 #
 #### Etapas 3 e 4 
   * Abra um terminal e coloque o comando ***mosquitto_sub -h broker.emqx.io -t pi2anaydson/msgs***, para subscrever-se.
