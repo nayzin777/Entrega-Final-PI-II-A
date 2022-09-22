@@ -29,6 +29,6 @@
   * Abra um terminal e coloque o comando ***mosquitto_sub -h broker.emqx.io -t pi2anaydson/msgs***, para subscrever-se.
   * Abra outro terminal e após logar, escreva ***mosquitto_sub -h broker.emqx.io -t pi2anaydson/msgs | grep naydson*** (aqui podera ser usado qualquer palavra), para filtrar mensagens que contenham só a palavra **_naydson_**
   * Abra um terceiro terminal e logado, coloque ***./publica-frase-mqtt UCPel localiza-se em Pelotas***.
-  * Notamos que esta mensagem aparecerá só no primeiro tribunal, mas no segundo não; porque ela não caiu no nosso _grep_ (fitro), pois não foi escrito uma frase contendo a palavra **naydson**.
+  * Notamos que esta mensagem aparecerá só no primeiro terminal, mas no segundo não; porque ela não caiu no nosso _grep_ (fitro), pois não foi escrito uma frase contendo a palavra **naydson**.
   * Vamos mudar o final do codigo, tente escrever: ***./publica-frase-mqtt naydson é aluno da ucpel***.
   * Agora sim ela aparecerá destacada no segundo terminal, porque a frase escrita continha a nossa palavra do filtro.
