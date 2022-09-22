@@ -32,3 +32,4 @@
   * Notamos que esta mensagem aparecerá só no primeiro terminal, mas no segundo não; porque ela não caiu no nosso _grep_ (fitro), pois não foi escrito uma frase contendo a palavra **naydson**.
   * Vamos mudar o final do codigo, tente escrever: ***./publica-frase-mqtt naydson é aluno da ucpel***.
   * Agora sim ela aparecerá destacada no segundo terminal, porque a frase escrita continha a nossa palavra do filtro.
+https://imgur.com/a/k6pUVip
