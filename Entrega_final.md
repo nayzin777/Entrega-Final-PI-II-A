@@ -3,7 +3,7 @@
 
  Todos os códigos foram adaptados e/ou rodados no próprio Prompt de Comando do Linux Mint.                  
  
-### Trajetória:
+### Trajetória/Resumo das atividades:
 
 * Primeiramente abra o terminal e vamos compilar todos os codigos que precisamos.
 * Faça o login com os dados.
@@ -43,4 +43,4 @@
 </div>
 
 ##
-##### link para acessar o video de apresentação do projeto
+##### link para acessar o video de apresentação do projeto: 
