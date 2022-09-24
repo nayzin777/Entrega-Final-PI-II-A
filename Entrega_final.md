@@ -43,4 +43,6 @@
 </div>
 
 ##
-##### link para acessar o video de apresentação do projeto: https://youtu.be/nZZ_hliDKSc
+##### link para acessar o video de apresentação do projeto:
+[![foto entrega final](https://user-images.githubusercontent.com/113566443/192075182-f240b60b-6b3d-4b0b-9072-4a124f68d823.png)](https://youtu.be/nZZ_hliDKSc)
+
